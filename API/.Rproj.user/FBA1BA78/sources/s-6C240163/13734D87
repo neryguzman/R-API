@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546409342218.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "13734D87",
+    "lastKnownWriteTime" : 1545367236,
+    "last_content_update" : 1545367236,
+    "path" : "~/GitHub/R API/API/LDA_API.R",
+    "project_path" : "LDA_API.R",
+    "properties" : {
+        "cursorPosition" : "22,2",
+        "scrollLine" : "9"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

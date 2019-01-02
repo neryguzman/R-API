@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1545325804070.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3651890064",
+    "id" : "C030E4A4",
+    "lastKnownWriteTime" : 1545325835,
+    "last_content_update" : -2147483648,
+    "path" : "C:/Users/44014011/Desktop/Fiverr/R API/API/LDA_API.R",
+    "project_path" : "LDA_API.R",
+    "properties" : {
+        "cursorPosition" : "36,0",
+        "scrollLine" : "12",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
